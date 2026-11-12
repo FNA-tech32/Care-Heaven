@@ -1,0 +1,18 @@
+{
+  "name": "care-heaven",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Care Heaven - Dental Clinic & Comprehensive Healthcare Web Application",
+  "scripts": {
+    "dev": "node init && npx -y serve .",
+    "start": "node init && npx -y serve .",
+    "preview": "npx -y serve ."
+  },
+  "keywords": [
+    "care-heaven",
+    "dental-clinic",
+    "healthcare",
+    "react"
+  ],
+  "license": "MIT"
+}
